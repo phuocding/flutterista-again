@@ -1,6 +1,6 @@
 # Flutterista Again
 
-> _Tôi đÃ trỞ lại vÀ Ăn hại gấp đôi_
+> _Tôi đÃ trở lại vÀ **ăn hại** gấp đôi_
 
 ## Getting Started
 
